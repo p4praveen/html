@@ -1,0 +1,120 @@
+/* heading */
+
+*{
+    margin-left: 0px;
+    margin-right:0px;
+    padding: 0px;
+}
+.nav-item{
+    padding-right: 100px 0px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.get-btn{
+    margin-top: 0px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: small;
+}
+.welcome{
+    position: relative;
+    width: 90px;
+    font-weight: normal;
+    border: 1px solid blue;
+    margin-left: 10px;
+    margin-top: 100px;
+    border-radius: 30px;
+    opacity: 30%;
+    color: black;
+}
+
+h2{
+    font-size: xx-large;
+    margin-left: 10px;
+    margin-top: 5000px;
+    font-weight: bold;
+    
+}
+p{
+    margin-left: 10px;
+}
+
+.read{
+    color: white;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.cont{
+    margin-left: 120px;
+    margin-top: -25px;
+    opacity: 70%;
+}
+.img{
+    margin-top: 50px;
+    width: 550px;
+    height: 450px;
+}
+.row-1{
+    text-align: center;
+}
+.row-bulb{
+    margin-right: 700px;
+}
+/* header exit */
+
+/* section s2 starts */
+
+/* section s2 exit */
+
+/* section s3 starts */
+/* section s3 exit */
+/* section s4 starts */
+.s4{
+    border-radius: 20px;
+    background-color: aqua;
+    margin-bottom: 300px;
+}
+.logos{
+    color: black;
+    width: 50px;
+    padding-left: 0
+
+}
+.text-s4{
+    position: relative;
+    text-align: center;
+    margin-top:-50px;
+    margin-left:px;
+}
+.card-img-top{
+    width: 50px;
+    height: 60px;
+
+}
+.s4-p {
+    line-height: 25px;
+}
+
+
+
+/* section s4 exit */
+/* section s5 starts */
+/* section s5 exit */
+/* section s6 starts */
+
+/* section s6 exit */
+/* section s7 starts */
+/* section s7 exit */
+/* section s8 starts */
+/* section s8 exit */
+/* section s9 starts */
+.row{
+    line-height: 50px;
+    
+}
+
+/* section s9 exit */
